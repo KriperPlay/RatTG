@@ -46,3 +46,6 @@ python3 main.py
 * * in main dir
 * Where chat file?
 * * in dir 'chats/'chat_id'/chat.txt'
+
+# End
+Thanks for download RatTG, good use <3
