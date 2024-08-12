@@ -35,7 +35,7 @@ python3 main.py
 # Questions
 
 * How to change different contact?
-* * Write 'restart()' in message line
+ * Write 'restart()' in message line
 * How to exit?
 * * Ctr+Z/C xD
 * How to send file?
