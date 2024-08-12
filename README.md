@@ -23,6 +23,7 @@ python3 main.py
 # How to use
 * Warnings:
 * * People can write you only after write '/start' to you
+* * The bot only accepts files and voice messages (from the interlocutor)
 * Create your TG Bot
 * Open main.py and write your bot_token in var 'API_TOKEN' and your id in var 'YOUR_ID'
 * Bind your bot to your TG Business acconut
